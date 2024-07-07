@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import { DataService } from '.data.service';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -12,14 +14,18 @@ export class AppComponent {
   webpage: string;
   hobbies: string[];
   showHobbies: boolean;
-
-  constructor(){
+  
+  //Angular 2
+  constructor(private dataService: DataService){
     console.log('Constructor Working...');
     this.name = 'Victor Gonzalo Malldonado Vilca';
     this.email = 'vmaldonadov@unsa.edu.pe';
     this.webpage = 'http://www.unsa.edu.pe';
     this.hobbies = ['Futbol', 'Programacion', 'Netflix'];
     this.showHobbies = false;
+    this.dataService.getData().subscribe(data => {
+      console.log(data);
+    });
   }
   toggleHobbies(){
     this.showHobbies = !this.showHobbies;
@@ -56,4 +62,5 @@ export class AppComponent {
   //Angular 2
   name1: string = "Victor Gonzalo Maldonado Vilca";
   age: number = 20;
+  
 } 
