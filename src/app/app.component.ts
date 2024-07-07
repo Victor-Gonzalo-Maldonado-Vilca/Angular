@@ -45,4 +45,12 @@ export class AppComponent {
       }
     }
   }
+  
+  addUser(newUser: any){
+    //console.log(newUser.value);
+    this.users.push(newUser.value);
+    newUser.value = '';
+    newUser.focus();
+    return false;
+  }
 } 

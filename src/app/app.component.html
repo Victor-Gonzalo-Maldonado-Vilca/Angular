@@ -30,8 +30,13 @@
   <button (click)="sayHello()">Hazme click</button>
 </div>
 
-<!--Borrar Elementos-->
+<!--Agregar Elementos-->
 <h1>Desde app.component</h1>
+<form (submit)="addUser(newUser)">
+  <input #newUser type="text"/>
+  <button>Agregar Usuario</button>
+</form>
+<!--Borrar Elementos-->
 <ul>
   <li *ngFor="let user of users">
     {{ user }} <button (click)="deleteUser(user)">Borrar Usuario</button>
