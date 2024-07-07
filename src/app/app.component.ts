@@ -33,4 +33,9 @@ export class AppComponent {
   //User
   users = ['ryan', 'joe', 'cameron', 'john'];
   activated = false;
+  
+  sayHello() {
+    alert("Hola desde app.component");
+  }
+  
 } 

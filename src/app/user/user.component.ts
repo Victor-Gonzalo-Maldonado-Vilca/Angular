@@ -9,4 +9,8 @@ export class UserComponent implements OnInit{
   @Input() nameUser: any;
   
   ngOnInit() {}
+  
+  sayhello(nameUser: any){
+    alert("Hola " + nameUser);
+  }
 }
