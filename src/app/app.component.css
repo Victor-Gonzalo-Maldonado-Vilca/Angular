@@ -11,3 +11,11 @@
   color: red;
   padding: 20px;
 }
+.btn {
+  padding: 8px;
+  color: white;
+  background-color: brown;
+  display: block;
+  margin: 3px;
+  border-radius: 10px;
+}

@@ -5,7 +5,8 @@
 <div class="ash">
   <h2>{{ name }}</h2>
   <h2>{{ email }}</h2>
-  <div *ngIf="showhobbies()">
+  <button (click)="toggleHobbies()" class="btn">Mostrar Hobbies</button>
+  <div *ngIf="showHobbies" class="componente2">
     <h3>hobbies</h3>
     <ul>
       <li *ngFor="let hobby of hobbies">{{ hobby }}</li>
