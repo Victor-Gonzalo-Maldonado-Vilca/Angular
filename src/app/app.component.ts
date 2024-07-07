@@ -7,8 +7,19 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-dream-app';
-  name = "Victor Gonzalo Maldonado Vilca";
-  email = "vmaldonadov@unsa.edu.pe";
-  webpage = "http://www.unsa.edu.pe";
+  name: string;
+  email; //string;
+  webpage: string;
+  hobbies: string[];
 
+  constructor(){
+    console.log('Constructor Working...');
+    this.name = 'Victor Gonzalo Malldonado Vilca';
+    this.email = 'vmaldonadov@unsa.edu.pe';
+    this.webpage = 'http://www.unsa.edu.pe';
+    this.hobbies = ['Futbol', 'Programacion', 'Netflix'];
+  }
+  showhobbies(){
+    return true;
+  }
 }
