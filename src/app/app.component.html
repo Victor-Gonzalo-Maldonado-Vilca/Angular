@@ -30,6 +30,14 @@
   <button (click)="sayHello()">Hazme click</button>
 </div>
 
+<!--Borrar Elementos-->
+<h1>Desde app.component</h1>
+<ul>
+  <li *ngFor="let user of users">
+    {{ user }} <button (click)="deleteUser(user)">Borrar Usuario</button>
+  </li>
+</ul>
+
 <div class="black">
   <h1>{{ title }}</h1>
 </div>
