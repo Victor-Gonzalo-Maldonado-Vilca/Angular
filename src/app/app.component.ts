@@ -29,4 +29,8 @@ export class AppComponent {
     hobby.value = '';
     return false;
   }
+  
+  //User
+  users = ['ryan', 'joe', 'cameron', 'john'];
+  activated = false;
 } 
