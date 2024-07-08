@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.23)  8 JUL 2024 01:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.23)  8 JUL 2024 02:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -785,12 +785,12 @@ Overfull \hbox (0.89597pt too wide) in paragraph at lines 155--163
 [][] 
  []
 
-<img/logo_episunsa.png, id=90, 195.73125pt x 58.2175pt>
+<img/logo_episunsa.png, id=18, 195.73125pt x 58.2175pt>
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
 Package pdftex.def Info: img/logo_episunsa.png  used on input line 197.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
-<img/logo_abet.png, id=91, 58.2175pt x 65.24374pt>
+<img/logo_abet.png, id=19, 58.2175pt x 65.24374pt>
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
 Package pdftex.def Info: img/logo_abet.png  used on input line 197.
@@ -806,7 +806,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [1{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./img/logo_episunsa.png> <./img/logo_abet.png>]
-<img/ejecucion1.png, id=109, 1140.05925pt x 495.0495pt>
+<img/ejecucion1.png, id=37, 1140.05925pt x 495.0495pt>
 File: img/ejecucion1.png Graphic file (type png)
 <use img/ejecucion1.png>
 Package pdftex.def Info: img/ejecucion1.png  used on input line 228.
@@ -816,7 +816,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 228--229
  [][] 
  []
 
-<img/ejecucion2.png, id=110, 1141.866pt x 154.77824pt>
+<img/ejecucion2.png, id=38, 1141.866pt x 154.77824pt>
 File: img/ejecucion2.png Graphic file (type png)
 <use img/ejecucion2.png>
 Package pdftex.def Info: img/ejecucion2.png  used on input line 233.
@@ -826,13 +826,13 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 233--234
  [][] 
  []
 
-<img/ejecucion3.png, id=111, 1135.8435pt x 275.22826pt>
+<img/ejecucion3.png, id=39, 1135.8435pt x 275.22826pt>
 File: img/ejecucion3.png Graphic file (type png)
 <use img/ejecucion3.png>
 Package pdftex.def Info: img/ejecucion3.png  used on input line 238.
 (pdftex.def)             Requested size: 443.57848pt x 107.48557pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 238--240
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 238--239
  [][] 
  []
 
@@ -1037,14 +1037,21 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `Informe_Angular1.out' has not changed.
-(rerunfilecheck)             Checksum: 49291CDA2FB1609A4C576170F4A7ACB9;3114.
+
+
+Package rerunfilecheck Warning: File `Informe_Angular1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Informe_Angular1.out':
+(rerunfilecheck)             Before: 9AF9A8947831A796DB0E6D3D5FADEE90;262
+(rerunfilecheck)             After:  49291CDA2FB1609A4C576170F4A7ACB9;3114.
  ) 
 Here is how much of TeX's memory you used:
- 18756 strings out of 474486
- 315607 string characters out of 5742811
+ 18738 strings out of 474486
+ 315368 string characters out of 5742811
  1986542 words of memory out of 5000000
- 40570 multiletter control sequences out of 15000+600000
+ 40552 multiletter control sequences out of 15000+600000
  561290 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,17n,93p,487b,2177s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1059,9 +1066,9 @@ Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Usuario
 ers/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10
 .pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmtt9.pfb>
-Output written on Informe_Angular1.pdf (10 pages, 287890 bytes).
+Output written on Informe_Angular1.pdf (10 pages, 280868 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
+ 335 PDF objects out of 1000 (max. 8388607)
  187 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

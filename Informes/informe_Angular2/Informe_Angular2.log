@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.23)  8 JUL 2024 01:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.23)  8 JUL 2024 02:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -785,12 +785,12 @@ Overfull \hbox (0.89597pt too wide) in paragraph at lines 155--163
 [][] 
  []
 
-<img/logo_episunsa.png, id=90, 195.73125pt x 58.2175pt>
+<img/logo_episunsa.png, id=86, 195.73125pt x 58.2175pt>
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
 Package pdftex.def Info: img/logo_episunsa.png  used on input line 195.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
-<img/logo_abet.png, id=91, 58.2175pt x 65.24374pt>
+<img/logo_abet.png, id=87, 58.2175pt x 65.24374pt>
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
 Package pdftex.def Info: img/logo_abet.png  used on input line 195.
@@ -806,7 +806,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [1{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./img/logo_episunsa.png> <./img/logo_abet.png>]
-<img/json.png, id=109, 1140.05925pt x 582.37575pt>
+<img/json.png, id=105, 1140.05925pt x 582.37575pt>
 File: img/json.png Graphic file (type png)
 <use img/json.png>
 Package pdftex.def Info: img/json.png  used on input line 228.
@@ -816,7 +816,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 228--229
  [][] 
  []
 
-<img/ejecucion1.png, id=110, 1138.85475pt x 584.1825pt>
+<img/ejecucion1.png, id=106, 1138.85475pt x 584.1825pt>
 File: img/ejecucion1.png Graphic file (type png)
 <use img/ejecucion1.png>
 Package pdftex.def Info: img/ejecucion1.png  used on input line 233.
@@ -826,7 +826,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 233--234
  [][] 
  []
 
-<img/ejecucion2.png, id=111, 1138.85475pt x 579.3645pt>
+<img/ejecucion2.png, id=107, 1138.85475pt x 579.3645pt>
 File: img/ejecucion2.png Graphic file (type png)
 <use img/ejecucion2.png>
 Package pdftex.def Info: img/ejecucion2.png  used on input line 238.
@@ -853,23 +853,23 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [2 <./img/json.png>]
-<img/ejecucion3.png, id=120, 1139.457pt x 581.7735pt>
+<img/ejecucion3.png, id=116, 1139.457pt x 581.7735pt>
 File: img/ejecucion3.png Graphic file (type png)
 <use img/ejecucion3.png>
 Package pdftex.def Info: img/ejecucion3.png  used on input line 243.
 (pdftex.def)             Requested size: 443.57848pt x 226.47353pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 243--245
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 243--244
  [][] 
  []
 
-<img/ejecucion4.png, id=121, 1143.0705pt x 584.1825pt>
+<img/ejecucion4.png, id=117, 1143.0705pt x 584.1825pt>
 File: img/ejecucion4.png Graphic file (type png)
 <use img/ejecucion4.png>
 Package pdftex.def Info: img/ejecucion4.png  used on input line 248.
 (pdftex.def)             Requested size: 443.57848pt x 226.68927pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 248--250
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 248--249
  [][] 
  []
 
@@ -919,11 +919,11 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 )
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 318.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 316.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 318.
+Package pdftex.def Info: img/logo_abet.png  used on input line 316.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1056,42 +1056,31 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-Package rerunfilecheck Warning: File `Informe_Angular2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Informe_Angular2.out':
-(rerunfilecheck)             Before: 82A34E04E4A2B911262D17430410016D;3366
-(rerunfilecheck)             After:  822E55D3572AA8B6D1B88729D77B35EC;3060.
+Package rerunfilecheck Info: File `Informe_Angular2.out' has not changed.
+(rerunfilecheck)             Checksum: 822E55D3572AA8B6D1B88729D77B35EC;3060.
  ) 
 Here is how much of TeX's memory you used:
- 18657 strings out of 474486
- 314452 string characters out of 5742811
- 1984542 words of memory out of 5000000
- 40540 multiletter control sequences out of 15000+600000
+ 18655 strings out of 474486
+ 314422 string characters out of 5742811
+ 1980542 words of memory out of 5000000
+ 40539 multiletter control sequences out of 15000+600000
  561290 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,17n,93p,487b,2158s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{subsection.7.5} has been referenced but does not ex
-ist, replaced by a fixed one
-
-<C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Usuario/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Usuario/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Usuario/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/User
-s/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.p
-fb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmtt9.pfb>
-Output written on Informe_Angular2.pdf (10 pages, 557188 bytes).
+<C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Usuario/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Usuario/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Usuario
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Us
+ers/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmtt9.pfb>
+Output written on Informe_Angular2.pdf (10 pages, 556190 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 118 named destinations out of 1000 (max. 500000)
- 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 309 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
+ 208 words of extra memory for PDF output out of 10000 (max. 10000000)
 
