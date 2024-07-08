@@ -66,6 +66,4 @@ export class AppComponent {
   //Angular 2
   name1: string = "Victor Gonzalo Maldonado Vilca";
   age: number = 20;
-  
-  
 } 
