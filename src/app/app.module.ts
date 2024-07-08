@@ -10,13 +10,15 @@ import { UserComponent } from './user/user.component';
 
 import { DataService } from './data.service';
 import { AboutComponent } from './about/about.component';
+import { SafePipe } from './safe.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     HelloWorldComponent,
     UserComponent,
-    AboutComponent
+    AboutComponent,
+    SafePipe
   ],
   imports: [
     BrowserModule,
